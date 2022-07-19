@@ -1,0 +1,541 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "STARS Lab",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": null,
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2022/07/11/abhinay",
+            "title": "Abhinay Bhatla Joins STARS",
+            "summary": null,
+            "content_text": "Abhinay is a student from the Collierville High School.",
+            "content_html": "<p>Abhinay is a student from the <a href=\"https://en.wikipedia.org/wiki/Collierville_High_School\">Collierville High School</a>.</p>",
+            "url": "http://localhost:4000/2022/07/11/abhinay",
+            
+            
+            
+            
+            
+            "date_published": "2022-07-11T00:00:00-05:00",
+            "date_modified": "2022-07-11T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/06/29/iros",
+            "title": "One Paper Accepted to IROS 2022",
+            "summary": null,
+            "content_text": "Our paper Inverse Reinforcement Learning with Hybrid-weight Trust-region Optimization and Curriculum Learning for Autonomous Maneuvering has been accepted to IEEE/RSJ IROS, a top-tier robotics conference. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"https://gamma.umd.edu/researchdirections/autonomousdriving/eirl/\">Inverse Reinforcement Learning with Hybrid-weight Trust-region Optimization and Curriculum Learning for Autonomous Maneuvering</a> has been accepted to IEEE/RSJ IROS, a top-tier robotics conference. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2022/06/29/iros",
+            
+            
+            
+            
+            
+            "date_published": "2022-06-29T00:00:00-05:00",
+            "date_modified": "2022-06-29T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/06/16/itsc",
+            "title": "One Paper Accepted to ITSC 2022",
+            "summary": null,
+            "content_text": "Our paper Learning to Control DC Motor for Micromobility in Real Time with Reinforcement Learning has been accepted to ITSC, the flagship conference of IEEE ITSS. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"/projects/2022-06-poudel2022nfq\">Learning to Control DC Motor for Micromobility in Real Time with Reinforcement Learning</a> has been accepted to ITSC, the flagship conference of <a href=\"https://ieee-itss.org/\">IEEE ITSS</a>. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2022/06/16/itsc",
+            
+            
+            
+            
+            
+            "date_published": "2022-06-16T00:00:00-05:00",
+            "date_modified": "2022-06-16T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/06/01/shahzeb",
+            "title": "Shahzeb Kazmi Joins STARS",
+            "summary": null,
+            "content_text": "Shahzeb is an undergraduate student majoring in Computer Science at the University of Memphis.",
+            "content_html": "<p>Shahzeb is an undergraduate student majoring in Computer Science at the University of Memphis.</p>",
+            "url": "http://localhost:4000/2022/06/01/shahzeb",
+            
+            
+            
+            
+            
+            "date_published": "2022-06-01T00:00:00-05:00",
+            "date_modified": "2022-06-01T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/04/15/stone",
+            "title": "Distinguished Colloquium by Prof. Stone",
+            "summary": null,
+            "content_text": "At the invitation of Weizi, Prof. Stone from the University of Texas at Austin gave a talk titled “Outracing Champion Gran Turismo Drivers with Deep Reinforcement Learning” for the distinguished colloquium series of the CS department at UofM.",
+            "content_html": "<p>At the invitation of Weizi, <a href=\"https://www.cs.utexas.edu/~pstone/\">Prof. Stone</a> from the <a href=\"https://www.utexas.edu/\">University of Texas at Austin</a> gave a talk titled “Outracing Champion Gran Turismo Drivers with Deep Reinforcement Learning” for the distinguished colloquium series of the CS department at UofM.</p>",
+            "url": "http://localhost:4000/2022/04/15/stone",
+            
+            
+            
+            
+            
+            "date_published": "2022-04-15T00:00:00-05:00",
+            "date_modified": "2022-04-15T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/03/18/cummings",
+            "title": "Distinguished Colloquium by Prof. Cummings",
+            "summary": null,
+            "content_text": "At the invitation of Weizi, Prof. Cummings from the Duke University gave a talk titled “The Interaction of Autonomy &amp; Training for First-Person Drone Flights” for the distinguished colloquium series of the CS department at UofM.",
+            "content_html": "<p>At the invitation of Weizi, <a href=\"https://pratt.duke.edu/faculty/missy-cummings\">Prof. Cummings</a> from the <a href=\"https://duke.edu/\">Duke University</a> gave a talk titled “The Interaction of Autonomy &amp; Training for First-Person Drone Flights” for the distinguished colloquium series of the CS department at UofM.</p>",
+            "url": "http://localhost:4000/2022/03/18/cummings",
+            
+            
+            
+            
+            
+            "date_published": "2022-03-18T00:00:00-05:00",
+            "date_modified": "2022-03-18T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/03/09/nvidia",
+            "title": "Academic Hardware Grant from NVIDIA",
+            "summary": null,
+            "content_text": "Our project “Towards Effective and Efficient City-scale Traffic Reconstruction” has received the academic hardware grant by NVIDIA. Thanks, NVIDIA!",
+            "content_html": "<p>Our project “Towards Effective and Efficient City-scale Traffic Reconstruction” has received the academic hardware grant by NVIDIA. Thanks, NVIDIA!</p>",
+            "url": "http://localhost:4000/2022/03/09/nvidia",
+            
+            
+            
+            
+            
+            "date_published": "2022-03-09T00:00:00-06:00",
+            "date_modified": "2022-03-09T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/03/03/iclr",
+            "title": "Weizi Li Invited to Programme Committee of ICLR Workshop",
+            "summary": null,
+            "content_text": "Weizi is invited to serve in the programme committee of the ICLR Workshop “Generalizable Policy Learning in the Physical World.”",
+            "content_html": "<p>Weizi is invited to serve in the programme committee of the <a href=\"https://iclr.cc/Conferences/2022/Schedule?type=Workshop\">ICLR Workshop “Generalizable Policy Learning in the Physical World.”</a></p>",
+            "url": "http://localhost:4000/2022/03/03/iclr",
+            
+            
+            
+            
+            
+            "date_published": "2022-03-03T00:00:00-06:00",
+            "date_modified": "2022-03-03T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/02/24/crii",
+            "title": "Project Awarded by National Science Foundation",
+            "summary": null,
+            "content_text": "We have been awarded a $175K grant from the National Science Foundation for our project “CRII: III: Towards Effective and Efficient City-scale Traffic Reconstruction.” More information can be found at the NSF award abstract site.",
+            "content_html": "<p>We have been awarded a $175K grant from the National Science Foundation for our project “CRII: III: Towards Effective and Efficient City-scale Traffic Reconstruction.” More information can be found at the <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=2153426&amp;HistoricalAwards=false\">NSF award abstract site</a>.</p>",
+            "url": "http://localhost:4000/2022/02/24/crii",
+            
+            
+            
+            
+            
+            "date_published": "2022-02-24T00:00:00-06:00",
+            "date_modified": "2022-02-24T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/01/19/aicourse",
+            "title": "Artificial Intelligence Course",
+            "summary": null,
+            "content_text": "Weizi is offering the newly designed COMP 4720 Intro to Artificial Intelligence in Spring 2022.",
+            "content_html": "<p>Weizi is offering the newly designed COMP 4720 Intro to Artificial Intelligence in Spring 2022.</p>",
+            "url": "http://localhost:4000/2022/01/19/aicourse",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-19T00:00:00-06:00",
+            "date_modified": "2022-01-19T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2022/01/18/isaac",
+            "title": "Isaac Nkrumah Joins STARS",
+            "summary": null,
+            "content_text": "Isaac joins STARS from Ghana, where he attended Kwame Nkrumah University Science and Technology.",
+            "content_html": "<p>Isaac joins STARS from Ghana, where he attended <a href=\"https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology\">Kwame Nkrumah University Science and Technology.</a></p>",
+            "url": "http://localhost:4000/2022/01/18/isaac",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-18T00:00:00-06:00",
+            "date_modified": "2022-01-18T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/11/24/hku",
+            "title": "Invited Talk at HKU",
+            "summary": null,
+            "content_text": "Weizi is invited to give a talk at the Department of Computer Science at the University of Hong Kong.",
+            "content_html": "<p>Weizi is invited to give a talk at the <a href=\"https://www.cs.hku.hk/\">Department of Computer Science</a> at the <a href=\"https://www.hku.hk/\">University of Hong Kong</a>.</p>",
+            "url": "http://localhost:4000/2021/11/24/hku",
+            
+            
+            
+            
+            
+            "date_published": "2021-11-24T00:00:00-06:00",
+            "date_modified": "2021-11-24T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/11/18/ornl",
+            "title": "Invitation from Oak Ridge National Laboratory",
+            "summary": null,
+            "content_text": "Weizi is invited to attend the workshop “Paving the Road to Future Automotive Research Datasets: Challenges and Opportunities” hosted by the Oak Ridge National Laboratory.",
+            "content_html": "<p>Weizi is invited to attend the workshop “Paving the Road to Future Automotive Research Datasets: Challenges and Opportunities” hosted by the Oak Ridge National Laboratory.</p>",
+            "url": "http://localhost:4000/2021/11/18/ornl",
+            
+            
+            
+            
+            
+            "date_published": "2021-11-18T00:00:00-06:00",
+            "date_modified": "2021-11-18T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/09/28/neurlps",
+            "title": "One Paper Accepted to NeurlPS 2021",
+            "summary": null,
+            "content_text": "Our paper Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering has been accepted to NeurlPS, a top-tier machine learning conference. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"https://gamma.umd.edu/researchdirections/autonomousdriving/visionrobustlearning/\">Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering</a> has been accepted to NeurlPS, a top-tier machine learning conference. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2021/09/28/neurlps",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-28T00:00:00-05:00",
+            "date_modified": "2021-09-28T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/09/19/itsc",
+            "title": "STARS at ITSC 2021",
+            "summary": null,
+            "content_text": "Bibek and Weizi attended ITSC 2021 held in Indianapolis, IN, USA.",
+            "content_html": "<p>Bibek and Weizi attended ITSC 2021 held in Indianapolis, IN, USA.</p>",
+            "url": "http://localhost:4000/2021/09/19/itsc",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-19T00:00:00-05:00",
+            "date_modified": "2021-09-19T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/09/01/trb",
+            "title": "One Paper Accepted to TRB 2021",
+            "summary": null,
+            "content_text": "Our paper  Data-driven Graph Filter based Graph Convolutional Neural Network Approach for Network-Level Multi-Step Traffic Prediction has been accepted to TRB, the largest transportation conference. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"https://arxiv.org/abs/2111.11337\"> Data-driven Graph Filter based Graph Convolutional Neural Network Approach for Network-Level Multi-Step Traffic Prediction</a> has been accepted to <a href=\"https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx\">TRB</a>, the largest transportation conference. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2021/09/01/trb",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-01T00:00:00-05:00",
+            "date_modified": "2021-09-01T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/06/15/itsc",
+            "title": "One Paper Accepted to ITSC 2021",
+            "summary": null,
+            "content_text": "Our paper Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models has been accepted to ITSC, the flagship conference of IEEE ITSS. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"/projects/2021-03-poudel2021attack\">Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models</a> has been accepted to ITSC, the flagship conference of <a href=\"https://ieee-itss.org/\">IEEE ITSS</a>. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2021/06/15/itsc",
+            
+            
+            
+            
+            
+            "date_published": "2021-06-15T00:00:00-05:00",
+            "date_modified": "2021-06-15T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/06/10/shivam",
+            "title": "Shivam Aarya Joins STARS",
+            "summary": null,
+            "content_text": "Shivam is a student from the White Station High School.",
+            "content_html": "<p>Shivam is a student from the <a href=\"https://en.wikipedia.org/wiki/White_Station_High_School\">White Station High School</a>.</p>",
+            "url": "http://localhost:4000/2021/06/10/shivam",
+            
+            
+            
+            
+            
+            "date_published": "2021-06-10T00:00:00-05:00",
+            "date_modified": "2021-06-10T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/06/01/michael",
+            "title": "Michael Villarreal Joins STARS",
+            "summary": null,
+            "content_text": "Michael is from Jackson, TN. He received his B.S. in Computer Science at the University of Memphis.",
+            "content_html": "<p>Michael is from Jackson, TN. He received his B.S. in Computer Science at the University of Memphis.</p>",
+            "url": "http://localhost:4000/2021/06/01/michael",
+            
+            
+            
+            
+            
+            "date_published": "2021-06-01T00:00:00-05:00",
+            "date_modified": "2021-06-01T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/05/31/sr",
+            "title": "One Paper Accepted by Scientific Reports",
+            "summary": null,
+            "content_text": "Our paper Assessing inequality, irregularity, and severity regarding road traffic safety during COVID-19 has been accepted by Scientific Reports. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"/projects/2021-04-lin2021safety\">Assessing inequality, irregularity, and severity regarding road traffic safety during COVID-19</a> has been accepted by Scientific Reports. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2021/05/31/sr",
+            
+            
+            
+            
+            
+            "date_published": "2021-05-31T00:00:00-05:00",
+            "date_modified": "2021-05-31T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/02/01/itsm",
+            "title": "One Paper Accepted by IEEE ITSM",
+            "summary": null,
+            "content_text": "Our paper Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms has been accepted by IEEE ITSM, a leading journal of Intelligent Transportation Systems. Congratulations to all the authors!",
+            "content_html": "<p>Our paper <a href=\"/projects/2021-02-lin2021attention\">Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms</a> has been accepted by <a href=\"https://ieee-itss.org/pub/its-magazine/\">IEEE ITSM</a>, a leading journal of Intelligent Transportation Systems. Congratulations to all the authors!</p>",
+            "url": "http://localhost:4000/2021/02/01/itsm",
+            
+            
+            
+            
+            
+            "date_published": "2021-02-01T00:00:00-06:00",
+            "date_modified": "2021-02-01T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/01/19/rlcourse",
+            "title": "Reinforcement Learning Course",
+            "summary": null,
+            "content_text": "Weizi is offering the newly designed COMP 7901 Reinforcement Learning in Spring 2021.",
+            "content_html": "<p>Weizi is offering the newly designed COMP 7901 Reinforcement Learning in Spring 2021.</p>",
+            "url": "http://localhost:4000/2021/01/19/rlcourse",
+            
+            
+            
+            
+            
+            "date_published": "2021-01-19T00:00:00-06:00",
+            "date_modified": "2021-01-19T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/01/18/fit",
+            "title": "Project Through FedEx Institute of Technology",
+            "summary": null,
+            "content_text": "The explorative project “Trailer Loading Optimization” is funded by FedEx Institute of Technology.",
+            "content_html": "<p>The explorative project “Trailer Loading Optimization” is funded by <a href=\"https://www.memphis.edu/fedex/\">FedEx Institute of Technology</a>.</p>",
+            "url": "http://localhost:4000/2021/01/18/fit",
+            
+            
+            
+            
+            
+            "date_published": "2021-01-18T00:00:00-06:00",
+            "date_modified": "2021-01-18T00:00:00-06:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2020/08/17/neurocourse",
+            "title": "Deep Learning Course",
+            "summary": null,
+            "content_text": "Weizi is offering the newly designed COMP 4741 Neurocomputing which focuses on Deep Learning in Fall 2020.",
+            "content_html": "<p>Weizi is offering the newly designed COMP 4741 Neurocomputing which focuses on Deep Learning in Fall 2020.</p>",
+            "url": "http://localhost:4000/2020/08/17/neurocourse",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-17T00:00:00-05:00",
+            "date_modified": "2020-08-17T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2020/08/17/bibek",
+            "title": "Bibek Poudel Joins STARS",
+            "summary": null,
+            "content_text": "Bibek is from Nepal, where he attended Kathmandu Engineering College of Tribhuvan University.",
+            "content_html": "<p>Bibek is from Nepal, where he attended Kathmandu Engineering College of <a href=\"https://en.wikipedia.org/wiki/Tribhuvan_University\">Tribhuvan University</a>.</p>",
+            "url": "http://localhost:4000/2020/08/17/bibek",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-17T00:00:00-05:00",
+            "date_modified": "2020-08-17T00:00:00-05:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        }
+    
+    ]
+}
