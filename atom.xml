@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>STARS Lab</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-07-20T20:53:12-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Abhinay Bhatla Joins STARS</title>
+   <link href="http://localhost:4000/2022/07/11/abhinay"/>
+   <updated>2022-07-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/07/11/abhinay</id>
+   <content type="html">&lt;p&gt;Abhinay is a student from the &lt;a href=&quot;https://en.wikipedia.org/wiki/Collierville_High_School&quot;&gt;Collierville High School&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted to IROS 2022</title>
+   <link href="http://localhost:4000/2022/06/29/iros"/>
+   <updated>2022-06-29T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/06/29/iros</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;https://gamma.umd.edu/researchdirections/autonomousdriving/eirl/&quot;&gt;Inverse Reinforcement Learning with Hybrid-weight Trust-region Optimization and Curriculum Learning for Autonomous Maneuvering&lt;/a&gt; has been accepted to IEEE/RSJ IROS, a top-tier robotics conference. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted to ITSC 2022</title>
+   <link href="http://localhost:4000/2022/06/16/itsc"/>
+   <updated>2022-06-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/06/16/itsc</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;/projects/2022-06-poudel2022nfq&quot;&gt;Learning to Control DC Motor for Micromobility in Real Time with Reinforcement Learning&lt;/a&gt; has been accepted to ITSC, the flagship conference of &lt;a href=&quot;https://ieee-itss.org/&quot;&gt;IEEE ITSS&lt;/a&gt;. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shahzeb Kazmi Joins STARS</title>
+   <link href="http://localhost:4000/2022/06/01/shahzeb"/>
+   <updated>2022-06-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/06/01/shahzeb</id>
+   <content type="html">&lt;p&gt;Shahzeb, nicknamed Sunny, is currently a Senior Computer Science and Mathematics student, concentrating in Artificial Intelligence. He was born in Memphis, Tennessee, but often visits Pakistan to connect with family.  In his free time, Shahzeb likes to edit videos and play board games with his friends.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distinguished Colloquium by Prof. Stone</title>
+   <link href="http://localhost:4000/2022/04/15/stone"/>
+   <updated>2022-04-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/04/15/stone</id>
+   <content type="html">&lt;p&gt;At the invitation of Weizi, &lt;a href=&quot;https://www.cs.utexas.edu/~pstone/&quot;&gt;Prof. Stone&lt;/a&gt; from the &lt;a href=&quot;https://www.utexas.edu/&quot;&gt;University of Texas at Austin&lt;/a&gt; gave a talk titled “Outracing Champion Gran Turismo Drivers with Deep Reinforcement Learning” for the distinguished colloquium series of the CS department at UofM.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distinguished Colloquium by Prof. Cummings</title>
+   <link href="http://localhost:4000/2022/03/18/cummings"/>
+   <updated>2022-03-18T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/03/18/cummings</id>
+   <content type="html">&lt;p&gt;At the invitation of Weizi, &lt;a href=&quot;https://pratt.duke.edu/faculty/missy-cummings&quot;&gt;Prof. Cummings&lt;/a&gt; from the &lt;a href=&quot;https://duke.edu/&quot;&gt;Duke University&lt;/a&gt; gave a talk titled “The Interaction of Autonomy &amp;amp; Training for First-Person Drone Flights” for the distinguished colloquium series of the CS department at UofM.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Academic Hardware Grant from NVIDIA</title>
+   <link href="http://localhost:4000/2022/03/09/nvidia"/>
+   <updated>2022-03-09T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/03/09/nvidia</id>
+   <content type="html">&lt;p&gt;Our project “Towards Effective and Efficient City-scale Traffic Reconstruction” has received the academic hardware grant by NVIDIA. Thanks, NVIDIA!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weizi Li Invited to Programme Committee of ICLR Workshop</title>
+   <link href="http://localhost:4000/2022/03/03/iclr"/>
+   <updated>2022-03-03T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/03/03/iclr</id>
+   <content type="html">&lt;p&gt;Weizi is invited to serve in the programme committee of the &lt;a href=&quot;https://iclr.cc/Conferences/2022/Schedule?type=Workshop&quot;&gt;ICLR Workshop “Generalizable Policy Learning in the Physical World.”&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Awarded by National Science Foundation</title>
+   <link href="http://localhost:4000/2022/02/24/crii"/>
+   <updated>2022-02-24T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/02/24/crii</id>
+   <content type="html">&lt;p&gt;We have been awarded a $175K grant from the National Science Foundation for our project “CRII: III: Towards Effective and Efficient City-scale Traffic Reconstruction.” More information can be found at the &lt;a href=&quot;https://nsf.gov/awardsearch/showAward?AWD_ID=2153426&amp;amp;HistoricalAwards=false&quot;&gt;NSF award abstract site&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial Intelligence Course</title>
+   <link href="http://localhost:4000/2022/01/19/aicourse"/>
+   <updated>2022-01-19T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/01/19/aicourse</id>
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 4720 Intro to Artificial Intelligence in Spring 2022.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Isaac Nkrumah Joins STARS</title>
+   <link href="http://localhost:4000/2022/01/18/isaac"/>
+   <updated>2022-01-18T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/01/18/isaac</id>
+   <content type="html">&lt;p&gt;Isaac joins STARS from Ghana, where he attended &lt;a href=&quot;https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology&quot;&gt;Kwame Nkrumah University Science and Technology.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Invited Talk at HKU</title>
+   <link href="http://localhost:4000/2021/11/24/hku"/>
+   <updated>2021-11-24T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/11/24/hku</id>
+   <content type="html">&lt;p&gt;Weizi is invited to give a talk at the &lt;a href=&quot;https://www.cs.hku.hk/&quot;&gt;Department of Computer Science&lt;/a&gt; at the &lt;a href=&quot;https://www.hku.hk/&quot;&gt;University of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Invitation from Oak Ridge National Laboratory</title>
+   <link href="http://localhost:4000/2021/11/18/ornl"/>
+   <updated>2021-11-18T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/11/18/ornl</id>
+   <content type="html">&lt;p&gt;Weizi is invited to attend the workshop “Paving the Road to Future Automotive Research Datasets: Challenges and Opportunities” hosted by the Oak Ridge National Laboratory.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted to NeurlPS 2021</title>
+   <link href="http://localhost:4000/2021/09/28/neurlps"/>
+   <updated>2021-09-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/09/28/neurlps</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;https://gamma.umd.edu/researchdirections/autonomousdriving/visionrobustlearning/&quot;&gt;Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering&lt;/a&gt; has been accepted to NeurlPS, a top-tier machine learning conference. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>STARS at ITSC 2021</title>
+   <link href="http://localhost:4000/2021/09/19/itsc"/>
+   <updated>2021-09-19T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/09/19/itsc</id>
+   <content type="html">&lt;p&gt;Bibek and Weizi attended ITSC 2021 held in Indianapolis, IN, USA.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted to TRB 2021</title>
+   <link href="http://localhost:4000/2021/09/01/trb"/>
+   <updated>2021-09-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/09/01/trb</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;https://arxiv.org/abs/2111.11337&quot;&gt; Data-driven Graph Filter based Graph Convolutional Neural Network Approach for Network-Level Multi-Step Traffic Prediction&lt;/a&gt; has been accepted to &lt;a href=&quot;https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx&quot;&gt;TRB&lt;/a&gt;, the largest transportation conference. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted to ITSC 2021</title>
+   <link href="http://localhost:4000/2021/06/15/itsc"/>
+   <updated>2021-06-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/06/15/itsc</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;/projects/2021-03-poudel2021attack&quot;&gt;Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models&lt;/a&gt; has been accepted to ITSC, the flagship conference of &lt;a href=&quot;https://ieee-itss.org/&quot;&gt;IEEE ITSS&lt;/a&gt;. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shivam Aarya Joins STARS</title>
+   <link href="http://localhost:4000/2021/06/10/shivam"/>
+   <updated>2021-06-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/06/10/shivam</id>
+   <content type="html">&lt;p&gt;Shivam is a student from the &lt;a href=&quot;https://en.wikipedia.org/wiki/White_Station_High_School&quot;&gt;White Station High School&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Michael Villarreal Joins STARS</title>
+   <link href="http://localhost:4000/2021/06/01/michael"/>
+   <updated>2021-06-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/06/01/michael</id>
+   <content type="html">&lt;p&gt;Michael received his B.S. in Computer Science at the University of Memphis. He is a Tennessee native from Jackson, TN (about an hour east of Memphis). He enjoys rock climbing and frequently takes outdoor climbing trips to Jamestown, AR and Chattanooga, TN. He also used to be a runner averaging over 1500 miles/year for several years. He owns a cat and a hedgehog named &lt;a href=&quot;https://imgur.com/a/g5aKarI&quot;&gt;Celeste&lt;/a&gt; and &lt;a href=&quot;https://imgur.com/a/f4hBBCX&quot;&gt;Sable&lt;/a&gt;, respectively (both names come from Animal Crossing).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted by Scientific Reports</title>
+   <link href="http://localhost:4000/2021/05/31/sr"/>
+   <updated>2021-05-31T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2021/05/31/sr</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;/projects/2021-04-lin2021safety&quot;&gt;Assessing inequality, irregularity, and severity regarding road traffic safety during COVID-19&lt;/a&gt; has been accepted by Scientific Reports. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Paper Accepted by IEEE ITSM</title>
+   <link href="http://localhost:4000/2021/02/01/itsm"/>
+   <updated>2021-02-01T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/02/01/itsm</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;/projects/2021-02-lin2021attention&quot;&gt;Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms&lt;/a&gt; has been accepted by &lt;a href=&quot;https://ieee-itss.org/pub/its-magazine/&quot;&gt;IEEE ITSM&lt;/a&gt;, a leading journal of Intelligent Transportation Systems. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reinforcement Learning Course</title>
+   <link href="http://localhost:4000/2021/01/19/rlcourse"/>
+   <updated>2021-01-19T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/19/rlcourse</id>
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 7901 Reinforcement Learning in Spring 2021.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Through FedEx Institute of Technology</title>
+   <link href="http://localhost:4000/2021/01/18/fit"/>
+   <updated>2021-01-18T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/18/fit</id>
+   <content type="html">&lt;p&gt;The explorative project “Trailer Loading Optimization” is funded by &lt;a href=&quot;https://www.memphis.edu/fedex/&quot;&gt;FedEx Institute of Technology&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning Course</title>
+   <link href="http://localhost:4000/2020/08/17/neurocourse"/>
+   <updated>2020-08-17T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/08/17/neurocourse</id>
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 4741 Neurocomputing which focuses on Deep Learning in Fall 2020.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bibek Poudel Joins STARS</title>
+   <link href="http://localhost:4000/2020/08/17/bibek"/>
+   <updated>2020-08-17T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/08/17/bibek</id>
+   <content type="html">&lt;p&gt;Bibek is from Nepal, where he attended Kathmandu Engineering College of &lt;a href=&quot;https://en.wikipedia.org/wiki/Tribhuvan_University&quot;&gt;Tribhuvan University&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
