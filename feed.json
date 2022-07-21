@@ -79,8 +79,8 @@
             "id": "http://localhost:4000/2022/06/01/shahzeb",
             "title": "Shahzeb Kazmi Joins STARS",
             "summary": null,
-            "content_text": "Shahzeb is an undergraduate student majoring in Computer Science at the University of Memphis.",
-            "content_html": "<p>Shahzeb is an undergraduate student majoring in Computer Science at the University of Memphis.</p>",
+            "content_text": "Shahzeb, nicknamed Sunny, is currently a Senior Computer Science and Mathematics student, concentrating in Artificial Intelligence. He was born in Memphis, Tennessee, but often visits Pakistan to connect with family.  In his free time, Shahzeb likes to edit videos and play board games with his friends.",
+            "content_html": "<p>Shahzeb, nicknamed Sunny, is currently a Senior Computer Science and Mathematics student, concentrating in Artificial Intelligence. He was born in Memphis, Tennessee, but often visits Pakistan to connect with family.  In his free time, Shahzeb likes to edit videos and play board games with his friends.</p>",
             "url": "http://localhost:4000/2022/06/01/shahzeb",
             
             
@@ -394,8 +394,8 @@
             "id": "http://localhost:4000/2021/06/01/michael",
             "title": "Michael Villarreal Joins STARS",
             "summary": null,
-            "content_text": "Michael is from Jackson, TN. He received his B.S. in Computer Science at the University of Memphis.",
-            "content_html": "<p>Michael is from Jackson, TN. He received his B.S. in Computer Science at the University of Memphis.</p>",
+            "content_text": "Michael received his B.S. in Computer Science at the University of Memphis. He is a Tennessee native from Jackson, TN (about an hour east of Memphis). He enjoys rock climbing and frequently takes outdoor climbing trips to Jamestown, AR and Chattanooga, TN. He also used to be a runner averaging over 1500 miles/year for several years. He owns a cat and a hedgehog named Celeste and Sable, respectively (both names come from Animal Crossing).",
+            "content_html": "<p>Michael received his B.S. in Computer Science at the University of Memphis. He is a Tennessee native from Jackson, TN (about an hour east of Memphis). He enjoys rock climbing and frequently takes outdoor climbing trips to Jamestown, AR and Chattanooga, TN. He also used to be a runner averaging over 1500 miles/year for several years. He owns a cat and a hedgehog named <a href=\"https://imgur.com/a/g5aKarI\">Celeste</a> and <a href=\"https://imgur.com/a/f4hBBCX\">Sable</a>, respectively (both names come from Animal Crossing).</p>",
             "url": "http://localhost:4000/2021/06/01/michael",
             
             
