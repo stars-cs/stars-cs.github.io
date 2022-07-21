@@ -4,7 +4,7 @@
  <title>STARS Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-07-20T20:53:12-05:00</updated>
+ <updated>2022-07-18T21:08:36-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -44,7 +44,7 @@
    <link href="http://localhost:4000/2022/06/01/shahzeb"/>
    <updated>2022-06-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/2022/06/01/shahzeb</id>
-   <content type="html">&lt;p&gt;Shahzeb, nicknamed Sunny, is currently a Senior Computer Science and Mathematics student, concentrating in Artificial Intelligence. He was born in Memphis, Tennessee, but often visits Pakistan to connect with family.  In his free time, Shahzeb likes to edit videos and play board games with his friends.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Shahzeb is an undergraduate student majoring in Computer Science at the University of Memphis.&lt;/p&gt;
 </content>
  </entry>
  
@@ -179,7 +179,7 @@
    <link href="http://localhost:4000/2021/06/01/michael"/>
    <updated>2021-06-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/2021/06/01/michael</id>
-   <content type="html">&lt;p&gt;Michael received his B.S. in Computer Science at the University of Memphis. He is a Tennessee native from Jackson, TN (about an hour east of Memphis). He enjoys rock climbing and frequently takes outdoor climbing trips to Jamestown, AR and Chattanooga, TN. He also used to be a runner averaging over 1500 miles/year for several years. He owns a cat and a hedgehog named &lt;a href=&quot;https://imgur.com/a/g5aKarI&quot;&gt;Celeste&lt;/a&gt; and &lt;a href=&quot;https://imgur.com/a/f4hBBCX&quot;&gt;Sable&lt;/a&gt;, respectively (both names come from Animal Crossing).&lt;/p&gt;
+   <content type="html">&lt;p&gt;Michael is from Jackson, TN. He received his B.S. in Computer Science at the University of Memphis.&lt;/p&gt;
 </content>
  </entry>
  
