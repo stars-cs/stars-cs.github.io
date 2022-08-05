@@ -4,7 +4,7 @@
  <title>STARS Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-07-20T20:53:12-05:00</updated>
+ <updated>2022-08-05T11:54:45-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/2022/07/11/abhinay"/>
    <updated>2022-07-11T00:00:00-05:00</updated>
    <id>http://localhost:4000/2022/07/11/abhinay</id>
-   <content type="html">&lt;p&gt;Abhinay is a student from the &lt;a href=&quot;https://en.wikipedia.org/wiki/Collierville_High_School&quot;&gt;Collierville High School&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Abhi is a high school Senior at &lt;a href=&quot;https://en.wikipedia.org/wiki/Collierville_High_School&quot;&gt;Collierville High School&lt;/a&gt; and is a Tennessee native who was born and raised in Memphis. He enjoys playing recreational sports with his friends such as basketball and tennis and also enjoys playing video games. He looks to gain research experience and further his interest in programming by helping with STARS.&lt;/p&gt;
 </content>
  </entry>
  
@@ -107,7 +107,7 @@
    <link href="http://localhost:4000/2022/01/18/isaac"/>
    <updated>2022-01-18T00:00:00-06:00</updated>
    <id>http://localhost:4000/2022/01/18/isaac</id>
-   <content type="html">&lt;p&gt;Isaac joins STARS from Ghana, where he attended &lt;a href=&quot;https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology&quot;&gt;Kwame Nkrumah University Science and Technology.&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;Isaac received his B.S. in Computer Science at &lt;a href=&quot;https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology&quot;&gt;Kwame Nkrumah University of Science and Technology&lt;/a&gt;. He enjoys swimming and playing soccer.&lt;/p&gt;
 </content>
  </entry>
  
@@ -170,7 +170,8 @@
    <link href="http://localhost:4000/2021/06/10/shivam"/>
    <updated>2021-06-10T00:00:00-05:00</updated>
    <id>http://localhost:4000/2021/06/10/shivam</id>
-   <content type="html">&lt;p&gt;Shivam is a student from the &lt;a href=&quot;https://en.wikipedia.org/wiki/White_Station_High_School&quot;&gt;White Station High School&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Shivam is a high school Junior at &lt;a href=&quot;https://en.wikipedia.org/wiki/White_Station_High_School&quot;&gt;White Station High School&lt;/a&gt;. He is a visiting student at &lt;a href=&quot;https://www.stanford.edu/&quot;&gt;Stanford University&lt;/a&gt; in Summer 2022.&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -234,7 +235,7 @@
    <link href="http://localhost:4000/2020/08/17/bibek"/>
    <updated>2020-08-17T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/08/17/bibek</id>
-   <content type="html">&lt;p&gt;Bibek is from Nepal, where he attended Kathmandu Engineering College of &lt;a href=&quot;https://en.wikipedia.org/wiki/Tribhuvan_University&quot;&gt;Tribhuvan University&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Bibek is from Parbat, Nepal, around the foothills of the 7th highest mountain in the world—&lt;a href=&quot;https://en.wikipedia.org/wiki/Dhaulagiri&quot;&gt;Dhaulagiri&lt;/a&gt;. He received his B.E. in Electronics and Communications from Kathmandu Engineering College, &lt;a href=&quot;https://en.wikipedia.org/wiki/Tribhuvan_University&quot;&gt;Tribhuvan University&lt;/a&gt;. He is a jack of many trades including swimming and playing guitar.&lt;/p&gt;
 </content>
  </entry>
  

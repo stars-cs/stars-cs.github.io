@@ -1,13 +1,13 @@
+Online Tools:
 Cover image split: https://pinetools.com/split-image
 Profile round image: https://crop-circle.imageonline.co/
 
 
+News (create an article for each item): 
 <p class="news-title"> <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></p>
-<p class="news-time">{{ post.date | date: "%B %-d, %Y" }}</p>
 
 
-
-
+Category: 
 da
 ns
 its
@@ -17,7 +17,7 @@ robo
 rl
 
 
-
+CSS:
 <!-- Slideshow navigation -->
 .dot {
   cursor: pointer;
@@ -45,8 +45,6 @@ rl
 }
 
 
-
-
 <!-- round border text link -->
 .intro-more a {
     color: white;  
@@ -57,8 +55,6 @@ rl
     font-size: .8rem;
     font-weight: 800; 
 }
-
-
 
 
 <!-- round border text button -->

@@ -16,8 +16,8 @@
             "id": "http://localhost:4000/2022/07/11/abhinay",
             "title": "Abhinay Bhatla Joins STARS",
             "summary": null,
-            "content_text": "Abhinay is a student from the Collierville High School.",
-            "content_html": "<p>Abhinay is a student from the <a href=\"https://en.wikipedia.org/wiki/Collierville_High_School\">Collierville High School</a>.</p>",
+            "content_text": "Abhi is a high school Senior at Collierville High School and is a Tennessee native who was born and raised in Memphis. He enjoys playing recreational sports with his friends such as basketball and tennis and also enjoys playing video games. He looks to gain research experience and further his interest in programming by helping with STARS.",
+            "content_html": "<p>Abhi is a high school Senior at <a href=\"https://en.wikipedia.org/wiki/Collierville_High_School\">Collierville High School</a> and is a Tennessee native who was born and raised in Memphis. He enjoys playing recreational sports with his friends such as basketball and tennis and also enjoys playing video games. He looks to gain research experience and further his interest in programming by helping with STARS.</p>",
             "url": "http://localhost:4000/2022/07/11/abhinay",
             
             
@@ -226,8 +226,8 @@
             "id": "http://localhost:4000/2022/01/18/isaac",
             "title": "Isaac Nkrumah Joins STARS",
             "summary": null,
-            "content_text": "Isaac joins STARS from Ghana, where he attended Kwame Nkrumah University Science and Technology.",
-            "content_html": "<p>Isaac joins STARS from Ghana, where he attended <a href=\"https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology\">Kwame Nkrumah University Science and Technology.</a></p>",
+            "content_text": "Isaac received his B.S. in Computer Science at Kwame Nkrumah University of Science and Technology. He enjoys swimming and playing soccer.",
+            "content_html": "<p>Isaac received his B.S. in Computer Science at <a href=\"https://en.wikipedia.org/wiki/Kwame_Nkrumah_University_of_Science_and_Technology\">Kwame Nkrumah University of Science and Technology</a>. He enjoys swimming and playing soccer.</p>",
             "url": "http://localhost:4000/2022/01/18/isaac",
             
             
@@ -373,8 +373,8 @@
             "id": "http://localhost:4000/2021/06/10/shivam",
             "title": "Shivam Aarya Joins STARS",
             "summary": null,
-            "content_text": "Shivam is a student from the White Station High School.",
-            "content_html": "<p>Shivam is a student from the <a href=\"https://en.wikipedia.org/wiki/White_Station_High_School\">White Station High School</a>.</p>",
+            "content_text": "Shivam is a high school Junior at White Station High School. He is a visiting student at Stanford University in Summer 2022.",
+            "content_html": "<p>Shivam is a high school Junior at <a href=\"https://en.wikipedia.org/wiki/White_Station_High_School\">White Station High School</a>. He is a visiting student at <a href=\"https://www.stanford.edu/\">Stanford University</a> in Summer 2022.</p>",
             "url": "http://localhost:4000/2021/06/10/shivam",
             
             
@@ -520,8 +520,8 @@
             "id": "http://localhost:4000/2020/08/17/bibek",
             "title": "Bibek Poudel Joins STARS",
             "summary": null,
-            "content_text": "Bibek is from Nepal, where he attended Kathmandu Engineering College of Tribhuvan University.",
-            "content_html": "<p>Bibek is from Nepal, where he attended Kathmandu Engineering College of <a href=\"https://en.wikipedia.org/wiki/Tribhuvan_University\">Tribhuvan University</a>.</p>",
+            "content_text": "Bibek is from Parbat, Nepal, around the foothills of the 7th highest mountain in the world—Dhaulagiri. He received his B.E. in Electronics and Communications from Kathmandu Engineering College, Tribhuvan University. He is a jack of many trades including swimming and playing guitar.",
+            "content_html": "<p>Bibek is from Parbat, Nepal, around the foothills of the 7th highest mountain in the world—<a href=\"https://en.wikipedia.org/wiki/Dhaulagiri\">Dhaulagiri</a>. He received his B.E. in Electronics and Communications from Kathmandu Engineering College, <a href=\"https://en.wikipedia.org/wiki/Tribhuvan_University\">Tribhuvan University</a>. He is a jack of many trades including swimming and playing guitar.</p>",
             "url": "http://localhost:4000/2020/08/17/bibek",
             
             
