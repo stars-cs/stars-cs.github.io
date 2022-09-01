@@ -1,6 +1,8 @@
-Online Tools:
-Cover image split: https://pinetools.com/split-image
-Profile round image: https://crop-circle.imageonline.co/
+Cover image split: 
+https://pinetools.com/split-image
+
+Profile round image: 
+https://crop-circle.imageonline.co/
 
 
 News (create an article for each item): 

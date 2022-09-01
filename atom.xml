@@ -4,13 +4,40 @@
  <title>STARS Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-05T11:54:45-05:00</updated>
+ <updated>2022-09-01T13:56:36-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>One Paper Accepted to ICDM 2022</title>
+   <link href="http://localhost:4000/2022/09/01/icdm"/>
+   <updated>2022-09-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/09/01/icdm</id>
+   <content type="html">&lt;p&gt;Our paper &lt;a href=&quot;https://arxiv.org/abs/2112.01565&quot;&gt;SparRL: Graph Sparsification via Deep Reinforcement Learning&lt;/a&gt; has been accepted to IEEE ICDM, a top-tier data mining conference. Congratulations to all the authors!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distinguished Colloquium by Prof. Siris</title>
+   <link href="http://localhost:4000/2022/08/23/siris"/>
+   <updated>2022-08-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/08/23/siris</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.memphis.edu/cs/people/faculty_pages/christos-papadopoulos.php&quot;&gt;Christos&lt;/a&gt; and Weizi co-hosted &lt;a href=&quot;https://www2.aueb.gr/users/vsiris/&quot;&gt;Prof. Siris&lt;/a&gt; from the &lt;a href=&quot;https://www.aueb.gr/en&quot;&gt;Athens University of Economics and Business (AUEB)&lt;/a&gt;, who gave a talk titled “New results on Decentralized Identifiers and their application to the Internet of Things and Content Delivery” for the distinguished colloquium series of the CS department at UofM.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Supriya Sarker Joins STARS</title>
+   <link href="http://localhost:4000/2022/08/22/sarker"/>
+   <updated>2022-08-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/08/22/sarker</id>
+   <content type="html">&lt;p&gt;Supriya is from central Bangladesh. She has worked on predictive analysis for intelligent transportation systems to ensure safe driving behaviors. Her research interests also include machine learning (reinforcement learning), data science, autonomous vehicles, and explainable AI. If you would like to know more about her projects, please find it &lt;a href=&quot;https://scholar.google.com/citations?user=x3yb_SQAAAAJ&amp;amp;hl=en&quot;&gt;here&lt;/a&gt;. Besides studying, She loves to read story books and watch movies.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Abhinay Bhatla Joins STARS</title>
@@ -98,7 +125,7 @@
    <link href="http://localhost:4000/2022/01/19/aicourse"/>
    <updated>2022-01-19T00:00:00-06:00</updated>
    <id>http://localhost:4000/2022/01/19/aicourse</id>
-   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 4720 Intro to Artificial Intelligence in Spring 2022.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed course, COMP 4720 “Intro to Artificial Intelligence” in Spring 2022.&lt;/p&gt;
 </content>
  </entry>
  
@@ -116,7 +143,7 @@
    <link href="http://localhost:4000/2021/11/24/hku"/>
    <updated>2021-11-24T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/11/24/hku</id>
-   <content type="html">&lt;p&gt;Weizi is invited to give a talk at the &lt;a href=&quot;https://www.cs.hku.hk/&quot;&gt;Department of Computer Science&lt;/a&gt; at the &lt;a href=&quot;https://www.hku.hk/&quot;&gt;University of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Weizi is invited to give a talk at the &lt;a href=&quot;https://www.cs.hku.hk/&quot;&gt;Department of Computer Science&lt;/a&gt; at the &lt;a href=&quot;https://www.hku.hk/&quot;&gt;University of Hong Kong&lt;/a&gt; in Fall 2021.&lt;/p&gt;
 </content>
  </entry>
  
@@ -143,7 +170,7 @@
    <link href="http://localhost:4000/2021/09/19/itsc"/>
    <updated>2021-09-19T00:00:00-05:00</updated>
    <id>http://localhost:4000/2021/09/19/itsc</id>
-   <content type="html">&lt;p&gt;Bibek and Weizi attended ITSC 2021 held in Indianapolis, IN, USA.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Bibek and Weizi attended &lt;a href=&quot;https://ieee-itsc.org/&quot;&gt;ITSC 2021&lt;/a&gt; held in Indianapolis, IN, USA.&lt;/p&gt;
 </content>
  </entry>
  
@@ -207,7 +234,7 @@
    <link href="http://localhost:4000/2021/01/19/rlcourse"/>
    <updated>2021-01-19T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/01/19/rlcourse</id>
-   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 7901 Reinforcement Learning in Spring 2021.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed course, COMP 7901 “Reinforcement Learning” in Spring 2021.&lt;/p&gt;
 
 </content>
  </entry>
@@ -226,7 +253,7 @@
    <link href="http://localhost:4000/2020/08/17/neurocourse"/>
    <updated>2020-08-17T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/08/17/neurocourse</id>
-   <content type="html">&lt;p&gt;Weizi is offering the newly designed COMP 4741 Neurocomputing which focuses on Deep Learning in Fall 2020.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Weizi is offering the newly designed course, COMP 4741 “Neurocomputing”, which focuses on &lt;a href=&quot;https://en.wikipedia.org/wiki/Deep_learning&quot;&gt;Deep Learning&lt;/a&gt; in Fall 2020.&lt;/p&gt;
 </content>
  </entry>
  
